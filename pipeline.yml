@@ -3,7 +3,7 @@ resources:
   - name: git-repo
     type: git
     source:
-      uri: https://github.com/nitram509/concourse-java-maven-test-prj.git
+      uri: https://github.com/bsk1072/concourseci.git
       branch: master
   - name: time
     type: time
